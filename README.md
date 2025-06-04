@@ -8,16 +8,6 @@ _Keep your audio devices alive!_
 
 ----------
 
-## ✨ Key Features
-
--   **Continuous Audio Playback**: Seamlessly loops audio files to keep Bluetooth headsets and other devices connected.
--   **Multi-Format Support**: Supports a variety of audio formats, including `.mid`, `.midi`, `.mp3`, `.wma`, and `.wav`.
--   **Simple File Management**: Place audio files in the `NoSleepAudioMusic` folder in the same directory as the executable, and the program will automatically detect and play them.
--   **Lightweight and Efficient**: Built on .NET Framework 4.0, with minimal system resource usage, ideal for long-term operation.
--   **User-Friendly**: No complex setup required—plug and play for a hassle-free audio experience.
-
-----------
-
 ## 📋 System Requirements
 
 -   **Operating System**: Windows XP or later (compatible with .NET Framework 4.0).

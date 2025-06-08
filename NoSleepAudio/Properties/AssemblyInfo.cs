@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NoSleepAudio")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Non-stop background audio player")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("NoSleepAudio")]
-[assembly: AssemblyCopyright("Copyright © Marcus App")]
+[assembly: AssemblyCopyright("Copyright © GitHub://MarcusApp")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
